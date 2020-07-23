@@ -14,9 +14,6 @@ const theme = {
   userFontColor: '#4a4a4a',
 }
 
-const BubbleStyle = {
-
-}
 const IconStyle = {
   borderRadius: '25px',
   width: '35px',
